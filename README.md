@@ -13,10 +13,10 @@ Remember, there should be a techtalk every day!
 
 ### Via the terminal:  
 
-- Clone this repository / Pull the lastest updates.
-- Edit the agenda.md.
-- Commit with a relevant commit message.
-- Push the changes online.
+1. Clone this repository / Pull the lastest updates.
+2. Edit the agenda.md.
+3. Commit with a relevant commit message.
+4. Push the changes online.
 
 ### Topic ideas:
 
