@@ -60,4 +60,4 @@ Remember, there should be a techtalk every day!
 
 # Links
 
-[agenda.md] (agenda.md)
+[agenda.md](agenda.md)
