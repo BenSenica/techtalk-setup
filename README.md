@@ -1,4 +1,5 @@
 #Techtalk
+***
 
 ##How does it work?
 
@@ -57,4 +58,3 @@ Remember, there should be a techtalk every day!
 - Neo4J and DB graphs
 - Neuromarketing
 - ...
-# techtalk-setup
