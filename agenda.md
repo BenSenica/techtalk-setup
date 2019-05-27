@@ -7,8 +7,13 @@
             </tr>
             <tr>
                 <td>Wednesday</td>
-                <td>21 june 2019</td>
+                <td>21/06/2019</td>
                 <td>Ben Senica</td>
                 <td>Music</td>
             </tr>
+	    <tr>
+		<td>Monday</td>
+		<td>24/03/2019</td>
+		<td>Ben Senica</td>
+		<td>google</td>
         </table>
