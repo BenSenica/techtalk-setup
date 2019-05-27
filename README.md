@@ -57,3 +57,7 @@ Remember, there should be a techtalk every day!
 - Neo4J and DB graphs
 - Neuromarketing
 - ...
+
+# Links
+
+[agenda.md] (agenda.md)
